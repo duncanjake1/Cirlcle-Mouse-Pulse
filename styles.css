@@ -1,0 +1,7 @@
+@font-face { font-family: reisenberg; src: url(/home/duncanjake1/JSprojects/circleMousePulse/reisenberg-font/Reisenberg-46gB.ttf); } 
+canvas{
+    background: linear-gradient(45deg, #eb596e, 45%, #4d375d);
+}
+body{ 
+    margin: 0;
+}
